@@ -97,9 +97,7 @@ mdp = {
 
 ## OUTPUT:
 
-![Uploading Screenshot 2025-08-30 110513.png…]()
-
-
+<img width="665" height="711" alt="Screenshot 2025-08-30 110513" src="https://github.com/user-attachments/assets/e9c15c9a-dc6c-40cf-be3e-7cf3cc09910d" />
 
 
 ## RESULT:
