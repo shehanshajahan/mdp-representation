@@ -95,8 +95,9 @@ mdp = {
 ```
 
 ## OUTPUT:
+![graphrep](https://github.com/user-attachments/assets/f87700f7-d9ae-45e1-9791-a85ee3ba108c)
 
-![Screenshot 2024-09-03 195206](https://github.com/user-attachments/assets/c1ce4bd4-a20f-4446-9a77-13e731f5d967)
+
 
 ## RESULT:
 
